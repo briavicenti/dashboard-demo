@@ -1,0 +1,14 @@
+{
+  "name": "dashboard-workspaces",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "engines": {
+    "node": ">17.0.0",
+    "npm": "^8.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
